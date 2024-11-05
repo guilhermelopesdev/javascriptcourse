@@ -1,0 +1,1 @@
+Este repositório é destinado aos meus estudos de JS. Na B7.
